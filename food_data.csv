@@ -1,0 +1,38 @@
+﻿Food Name,Category,Calories,Protein (g),Fat (g),Carbs (g),Suitable For,Cost (LKR)
+Rice and Curry,Rice and Curry,400,10,5,80,"Gastritis, Balanced Diet",100
+Pol Sambol and Rice,Traditional Sri Lankan,350,8,10,70,"Weight Management, Balanced Diet",80
+Dhal Curry and Rice,Traditional Sri Lankan,320,12,6,65,High Cholesterol,70
+String Hoppers with Curry,Traditional Sri Lankan,180,4,2,35,High Cholesterol,80
+Vegetable Roti,Traditional Sri Lankan,250,6,10,50,Balanced Diet,60
+Hoppers with Lunu Miris,Traditional Sri Lankan,160,4,3,30,"Gastritis, Healthy Diet",50
+Kottu (Chicken),Fast Food,800,25,15,90,Balanced Diet,250
+Vegetable Kottu,Fast Food,600,12,8,100,"Healthy Diet, Weight Management",150
+Burgers (Beef),Fast Food,550,20,25,50,Weight Gain,300
+Pizza (Vegetarian),Fast Food,700,12,25,100,Weight Gain,400
+Instant Noodles (Plain),Processed Foods,380,7,14,55,Quick Meals,100
+Biscuits (Savory),Processed Foods,120,2,6,15,Snacks,50
+Canned Fish Curry,Processed Foods,250,22,8,0,High Protein Diet,120
+Bananas (Small),Fruits and Vegetables,90,1,0,23,"High Cholesterol, Quick Energy",30
+Papaya (Slices),Fruits and Vegetables,60,1,0,15,Weight Management,40
+Mango (Slices),Fruits and Vegetables,75,0,0,18,Healthy Diet,50
+Vegetable Curry and Rice,Rice and Curry,400,8,8,75,"High Cholesterol, Balanced Diet",90
+Fish Curry and Rice,Rice and Curry,450,20,10,60,High Protein Diet,120
+Jackfruit Curry,Traditional Sri Lankan,300,6,5,55,Healthy Diet,80
+Pumpkin Curry,Traditional Sri Lankan,250,4,4,50,Weight Management,70
+Fried Rice (Chicken),Fast Food,650,20,15,80,Balanced Diet,200
+Pittu with Coconut Sambol,Traditional Sri Lankan,400,6,15,70,High Cholesterol,90
+Mango (Slices),Fruits,75,1,0,18,Healthy Diet,50
+Guava (Whole),Fruits,60,2,0,14,"Weight Management, High Fiber",40
+Papaya (Slices),Fruits,60,1,0,15,Weight Management,40
+Avocado (Half),Fruits,160,2,15,8,High Cholesterol Diet,70
+Pineapple (Slices),Fruits,50,0,0,13,"Healthy Diet, Low Calorie",40
+Rambutan (10 Pieces),Fruits,70,1,0,18,Quick Energy,80
+Watermelon (Slices),Fruits,30,0,0,8,"Weight Management, Hydration",30
+Banana (Small),Fruits,90,1,0,23,"Quick Energy, Healthy Diet",30
+Plain Tea,Drinks,5,0,0,1,"Low Calorie, Hydration",20
+Milk Tea (Small Cup),Drinks,100,3,3,15,Balanced Diet,40
+King Coconut Water,Drinks,40,0,0,9,"Hydration, Low Calorie",50
+Fresh Lime Juice,Drinks,30,0,0,8,"Hydration, Weight Management",40
+Faluda,Drinks,300,6,8,50,Treats,150
+Plain Yogurt Drink,Drinks,90,5,2,10,"High Protein, Low Fat",60
+"Herbal Tea (e.g., Belimal)",Drinks,10,0,0,2,"Hydration, Healthy Diet",30
